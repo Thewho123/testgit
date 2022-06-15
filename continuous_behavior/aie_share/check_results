@@ -1,0 +1,6 @@
+************* Module pipeline0.4-0.5
+pipeline0.4-0.5.py:1:0: C0103: Module name "5" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.85/10 (previous run: 9.85/10, +0.00)
+
